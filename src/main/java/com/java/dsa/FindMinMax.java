@@ -1,8 +1,5 @@
 package com.java.dsa;
 
-import java.sql.SQLOutput;
-import java.util.Scanner;
-
 public class FindMinMax {
     public static void findMaxMin(int[] arr){
         if (arr == null || arr.length < 2) {
