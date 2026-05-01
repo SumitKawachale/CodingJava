@@ -120,7 +120,7 @@ This repository is actively evolving. Planned additions include:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/SumitKawachale/CodingJava.git
 ```
 
 ### 2. Open in IDE
