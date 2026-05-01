@@ -31,7 +31,6 @@ The repository follows a **problem-driven approach**, where each implementation 
 * Single traversal solution
 * Optimized comparison logic
 * Handles edge cases (duplicates, small arrays)
-  👉 Implementation: 
 
 ---
 
@@ -39,7 +38,6 @@ The repository follows a **problem-driven approach**, where each implementation 
 
 * Linear time complexity **O(n)**
 * Early termination for efficiency
-  👉 Implementation: 
 
 ---
 
@@ -47,7 +45,6 @@ The repository follows a **problem-driven approach**, where each implementation 
 
 * Two-pointer technique
 * In-place modification (**O(1) space**)
-  👉 Implementation: 
 
 ---
 
@@ -55,7 +52,6 @@ The repository follows a **problem-driven approach**, where each implementation 
 
 * Greedy + string manipulation approach
 * Demonstrates decision-making optimization
-  👉 Implementation: 
 
 ---
 
