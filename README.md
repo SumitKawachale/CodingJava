@@ -221,6 +221,3 @@ If you find this repository useful:
 
 This repository reflects **continuous learning and iterative improvement**.
 Advanced topics and optimized solutions will be added regularly.
-
-* Convert this into a **perfect ATS + recruiter-optimized GitHub profile**
-* Or suggest **exact next 10 DSA problems** for TCS Digital level 🚀
