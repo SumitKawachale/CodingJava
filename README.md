@@ -6,7 +6,7 @@ This repository is a structured and evolving collection of **Data Structures and
 
 * Writing **clean, modular, and maintainable code**
 * Applying **optimal problem-solving techniques**
-* Building a solid foundation for **technical interviews**
+* Building a solid foundation for **technical interviews (TCS / Product-based / Backend roles)**
 * Strengthening **backend engineering logic and scalability thinking**
 
 The repository follows a **problem-driven and pattern-oriented approach**, ensuring clarity, correctness, and efficiency.
@@ -58,19 +58,45 @@ The repository follows a **problem-driven and pattern-oriented approach**, ensur
 #### 5. Rotate Array by One Position
 
 * Iterative shifting approach
-* Handles edge cases (empty, single element)
-
-📄 Implementation: 
+* Handles edge cases
 
 ---
 
 #### 6. Rotate Array by K Positions
 
-* Optimized **Reversal Algorithm**
+* **Reversal Algorithm**
 * Handles large `k` using modulo
-* In-place rotation (**O(1) space, O(n) time**)
+* In-place rotation (**O(n) time, O(1) space**)
+
+---
+
+#### 7. Linear Search
 
 📄 Implementation: 
+
+* Simple traversal search (**O(n)**)
+* Returns index of target element
+* Handles edge cases (empty array, element not found)
+
+---
+
+#### 8. Move Zeros to End
+
+📄 Implementation: 
+
+* Two-pointer technique
+* Maintains relative order of non-zero elements
+* In-place transformation (**O(n), O(1) space**)
+
+---
+
+#### 9. Union of Two Sorted Arrays
+
+📄 Implementation: 
+
+* Two-pointer merge technique
+* Avoids duplicates efficiently
+* Works in **O(n + m)** time
 
 ---
 
@@ -84,7 +110,10 @@ com.java.dsa
 │       ├── IsSorted.java
 │       ├── RemoveDuplicates.java
 │       ├── RotateArrayByOne.java
-│       └── RotateArrayByK.java
+│       ├── RotateArrayByK.java
+│       ├── LinearSearch.java
+│       ├── MoveZerosToEnd.java
+│       └── UnionOfTwoArray.java
 │
 ├── FindMinMax.java
 ├── MaxNumberFinder.java
@@ -103,7 +132,7 @@ com.java.dsa
 * Arrays & String Manipulation
 * Two Pointer Technique
 * Greedy Algorithms
-* Iteration & Conditional Logic
+* Searching Algorithms
 * In-place Algorithms
 * Edge Case Handling
 
@@ -113,9 +142,9 @@ com.java.dsa
 
 Each implementation prioritizes:
 
-* **Time Complexity:** Targeting O(n) wherever feasible
-* **Space Optimization:** Prefer in-place transformations
-* **Scalability:** Logic applicable to large datasets
+* **Time Complexity:** Optimized to O(n) wherever feasible
+* **Space Optimization:** Prefer in-place solutions
+* **Scalability:** Designed for large input handling
 
 ---
 
@@ -142,9 +171,13 @@ Each implementation prioritizes:
 git clone https://github.com/SumitKawachale/CodingJava.git
 ```
 
+---
+
 ### 2. Open in IDE
 
 Recommended: **IntelliJ IDEA**
+
+---
 
 ### 3. Run Code
 
@@ -155,9 +188,10 @@ Execute any class containing a `main()` method.
 ## 💡 Key Highlights
 
 * Clean, readable, and modular Java code
-* Strong focus on **interview-oriented problems**
+* Strong focus on **interview-oriented problems (TCS NQT, Digital)**
 * Emphasis on **optimization and edge cases**
-* Designed for **continuous scalability and learning**
+* Structured for **progressive learning (Easy → Advanced)**
+* Reflects **backend engineering thinking**
 
 ---
 
@@ -187,3 +221,6 @@ If you find this repository useful:
 
 This repository reflects **continuous learning and iterative improvement**.
 Advanced topics and optimized solutions will be added regularly.
+
+* Convert this into a **perfect ATS + recruiter-optimized GitHub profile**
+* Or suggest **exact next 10 DSA problems** for TCS Digital level 🚀
