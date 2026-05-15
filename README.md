@@ -1,4 +1,4 @@
-# 🚀 Java Data Structures & Algorithms //Repository
+# 🚀 Java Data Structures & Algorithms Repository
 
 ## 📖 About This Repository
 
@@ -206,8 +206,8 @@ This is a personal learning repository. Suggestions, optimizations, or alternati
 * **GitHub:** [https://github.com/SumitKawachale](https://github.com/SumitKawachale)
 * **LinkedIn:** [https://linkedin.com/in/sumit-kawachale](https://linkedin.com/in/sumit-kawachale)
 
-
 ---
+
 ## ⭐ Support
 
 If you find this repository useful:
