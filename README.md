@@ -226,7 +226,6 @@ This repository is designed to strengthen preparation for:
 
 - Product-Based Companies
 - Backend Engineering Roles
-- TCS NQT / Digital
 - Technical Coding Interviews
 - LeetCode-Style Questions
 
