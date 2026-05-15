@@ -12,7 +12,7 @@ public class MissingNumber {
     public static int missingNumber(int[] arr){
         int N = arr.length+1;
 
-        long expectedSum = N *(N+1)/2;
+        long expectedSum = (long) N *(N+1)/2;
         long actualSum = 0;
 
         for(int num : arr){
