@@ -238,7 +238,7 @@ This repository is designed to strengthen preparation for:
 # 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/username/CodingJava.git
+git clone https://github.com/SumitKawachale/CodingJava.git
 ```
 
 ---
