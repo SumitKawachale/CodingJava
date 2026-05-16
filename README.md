@@ -69,6 +69,7 @@ com.java.dsa
 ├── Arrays
 │   └── Easy
 │       ├── ConsecutiveOnes.java
+│       ├── ConsecutiveOnes_II.java
 │       ├── IntersectionSortedArrays.java
 │       ├── IsSorted.java
 │       ├── LinearSearch.java
@@ -95,17 +96,18 @@ com.java.dsa
 |---|---|---|---|---|
 | 1 | Find Minimum, Maximum, Second Minimum, Second Maximum | Single Traversal | O(n) | O(1) |
 | 2 | Consecutive Ones | Traversal, Counting | O(n) | O(1) |
-| 3 | Check if Array is Sorted | Linear Scan | O(n) | O(1) |
-| 4 | Linear Search | Sequential Search | O(n) | O(1) |
-| 5 | Remove Duplicates from Sorted Array | Two Pointers | O(n) | O(1) |
-| 6 | Move Zeros to End | Two Pointers, In-place | O(n) | O(1) |
-| 7 | Rotate Array by One | Array Manipulation | O(n) | O(1) |
-| 8 | Rotate Array by K | Reversal Algorithm | O(n) | O(1) |
-| 9 | Missing Number | XOR, Mathematics | O(n) | O(1) |
-| 10 | Missing Number II | XOR + Sum Formula | O(n) | O(1) |
-| 11 | Union of Two Sorted Arrays | Merge Technique | O(n + m) | O(n) |
-| 12 | Intersection of Two Sorted Arrays | Two Pointers | O(n + m) | O(n) |
-| 13 | Maximize Number After Removing a Digit | Greedy Algorithm | O(n) | O(1) |
+| 3 | Consecutive Ones II | Sliding Window, Two Pointers | O(n) | O(1) |
+| 4 | Check if Array is Sorted | Linear Scan | O(n) | O(1) |
+| 5 | Linear Search | Sequential Search | O(n) | O(1) |
+| 6 | Remove Duplicates from Sorted Array | Two Pointers | O(n) | O(1) |
+| 7 | Move Zeros to End | Two Pointers, In-place | O(n) | O(1) |
+| 8 | Rotate Array by One | Array Manipulation | O(n) | O(1) |
+| 9 | Rotate Array by K | Reversal Algorithm | O(n) | O(1) |
+| 10 | Missing Number | XOR, Mathematics | O(n) | O(1) |
+| 11 | Missing Number II | XOR + Sum Formula | O(n) | O(1) |
+| 12 | Union of Two Sorted Arrays | Merge Technique | O(n + m) | O(n) |
+| 13 | Intersection of Two Sorted Arrays | Two Pointers | O(n + m) | O(n) |
+| 14 | Maximize Number After Removing a Digit | Greedy Algorithm | O(n) | O(1) |
 
 ---
 
@@ -236,7 +238,7 @@ This repository is designed to strengthen preparation for:
 # 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/SumitKawachale/CodingJava.git
+git clone https://github.com/username/CodingJava.git
 ```
 
 ---
